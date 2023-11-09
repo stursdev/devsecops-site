@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Introduction to DevSecOps Course Site
+title: DevSecOps Course Site
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a site built for Introduction to DevSecOps course (Coursera).
@@ -26,10 +26,20 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/devsecops-site" # the subpath of your site, e.g. /blog
 url: "https://stursdev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  stursdev
+
+# Additional Fields
+author: Sam Tursunov
+
+
+# Custom Fields
+copyright: "Sam Tursunov"
+title-logo: /images/title-logo3.png
+
 
 # Build settings
-theme: minima
+# Removed minima theme - using regular theme
+#theme: minima
 plugins:
   - jekyll-feed
 
