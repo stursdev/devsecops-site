@@ -1,2 +1,1 @@
-# devsecops-site
-DevSecOps Site
+# This is the repo for DevSecOps Course Site
