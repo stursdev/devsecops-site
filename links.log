@@ -1,0 +1,453 @@
+Running 3 checks (Images, Links, Scripts) in ["./_site"] on *.html files ...
+
+
+Running Images in ./_site/404.html
+Running Links in ./_site/404.html
+Running Scripts in ./_site/404.html
+Running Images in ./_site/about/index.html
+Running Links in ./_site/about/index.html
+Running Scripts in ./_site/about/index.html
+Running Images in ./_site/index.html
+Running Links in ./_site/index.html
+Running Scripts in ./_site/index.html
+Running Images in ./_site/jekyll/update/2023/11/03/welcome-to-jekyll.html
+Running Links in ./_site/jekyll/update/2023/11/03/welcome-to-jekyll.html
+Running Scripts in ./_site/jekyll/update/2023/11/03/welcome-to-jekyll.html
+Running Images in ./_site/jekyll/update/2023/11/04/post-one.html
+Running Links in ./_site/jekyll/update/2023/11/04/post-one.html
+Running Scripts in ./_site/jekyll/update/2023/11/04/post-one.html
+Running Images in ./_site/jekyll/update/2023/11/05/post-two.html
+Running Links in ./_site/jekyll/update/2023/11/05/post-two.html
+Running Scripts in ./_site/jekyll/update/2023/11/05/post-two.html
+Running Images in ./_site/jekyll/update/2023/11/06/post-three.html
+Running Links in ./_site/jekyll/update/2023/11/06/post-three.html
+Running Scripts in ./_site/jekyll/update/2023/11/06/post-three.html
+Running Images in ./_site/jekyll/update/2023/11/07/post-four.html
+Running Links in ./_site/jekyll/update/2023/11/07/post-four.html
+Running Scripts in ./_site/jekyll/update/2023/11/07/post-four.html
+Running Images in ./_site/jekyll/update/2023/11/08/post-five.html
+Running Links in ./_site/jekyll/update/2023/11/08/post-five.html
+Running Scripts in ./_site/jekyll/update/2023/11/08/post-five.html
+Checking 18 external links
+ETHON: started MULTI
+Received a 0 for http://localhost:4000/devsecops-site/404.html
+Received a 0 for http://localhost:4000/devsecops-site/feed.xml
+Received a 0 for http://localhost:4000/devsecops-site/about/
+Received a 0 for http://localhost:4000/devsecops-site/
+Received a 0 for http://localhost:4000/devsecops-site/jekyll/update/2023/11/03/welcome-to-jekyll.html
+Received a 0 for http://localhost:4000/devsecops-site/jekyll/update/2023/11/04/post-one.html
+Received a 0 for http://localhost:4000/devsecops-site/jekyll/update/2023/11/05/post-two.html
+Received a 0 for http://localhost:4000/devsecops-site/jekyll/update/2023/11/06/post-three.html
+Received a 0 for http://localhost:4000/devsecops-site/jekyll/update/2023/11/07/post-four.html
+Received a 0 for http://localhost:4000/devsecops-site/jekyll/update/2023/11/08/post-five.html
+Received a 200 for https://jekyllrb.com/
+Received a 200 for https://jekyllrb.com/docs/home
+Received a 403 for https://www.twitter.com/jekyllrb
+Received a 200 for https://github.com/jekyll
+Received a 200 for https://www.twitter.com/jekyllrb
+Received a 200 for https://talk.jekyllrb.com/
+Received a 200 for https://github.com/stursdev
+Received a 200 for https://github.com/jekyll/jekyll
+Received a 200 for https://github.com/jekyll/minima
+ETHON: performed MULTI
+Checking 10 internal links
+(1 / 10) Internal link /devsecops-site/assets/main.css: Checking 9 references
+(2 / 10) Internal link /devsecops-site/: Checking 9 references
+(3 / 10) Internal link /devsecops-site/about/: Checking 9 references
+(4 / 10) Internal link /devsecops-site/jekyll/update/2023/11/08/post-five.html: Checking 2 references
+(5 / 10) Internal link /devsecops-site/jekyll/update/2023/11/07/post-four.html: Checking 2 references
+(6 / 10) Internal link /devsecops-site/jekyll/update/2023/11/06/post-three.html: Checking 2 references
+(7 / 10) Internal link /devsecops-site/jekyll/update/2023/11/05/post-two.html: Checking 2 references
+(8 / 10) Internal link /devsecops-site/jekyll/update/2023/11/04/post-one.html: Checking 2 references
+(9 / 10) Internal link /devsecops-site/jekyll/update/2023/11/03/welcome-to-jekyll.html: Checking 2 references
+(10 / 10) Internal link /devsecops-site/feed.xml: Checking 1 reference
+Checking internal link hashes in 0 files
+Ran on 9 files!
+
+
+For the Images check, the following failures were found:
+
+* At ./_site/404.html:29:
+
+  internal image /devsecops-site/images/title-logo3.png does not exist
+
+* At ./_site/about/index.html:29:
+
+  internal image /devsecops-site/images/title-logo3.png does not exist
+
+* At ./_site/index.html:29:
+
+  internal image /devsecops-site/images/title-logo3.png does not exist
+
+* At ./_site/jekyll/update/2023/11/03/welcome-to-jekyll.html:30:
+
+  internal image /devsecops-site/images/title-logo3.png does not exist
+
+* At ./_site/jekyll/update/2023/11/04/post-one.html:30:
+
+  internal image /devsecops-site/images/title-logo3.png does not exist
+
+* At ./_site/jekyll/update/2023/11/05/post-two.html:30:
+
+  internal image /devsecops-site/images/title-logo3.png does not exist
+
+* At ./_site/jekyll/update/2023/11/06/post-three.html:30:
+
+  internal image /devsecops-site/images/title-logo3.png does not exist
+
+* At ./_site/jekyll/update/2023/11/07/post-four.html:30:
+
+  internal image /devsecops-site/images/title-logo3.png does not exist
+
+* At ./_site/jekyll/update/2023/11/08/post-five.html:30:
+
+  internal image /devsecops-site/images/title-logo3.png does not exist
+
+For the Links check, the following failures were found:
+
+* At ./_site/404.html:13:
+
+  http://localhost:4000/devsecops-site/404.html is not an HTTPS link
+
+* At ./_site/404.html:22:
+
+  http://localhost:4000/devsecops-site/feed.xml is not an HTTPS link
+
+* At ./_site/about/index.html:13:
+
+  http://localhost:4000/devsecops-site/about/ is not an HTTPS link
+
+* At ./_site/about/index.html:22:
+
+  http://localhost:4000/devsecops-site/feed.xml is not an HTTPS link
+
+* At ./_site/index.html:13:
+
+  http://localhost:4000/devsecops-site/ is not an HTTPS link
+
+* At ./_site/index.html:22:
+
+  http://localhost:4000/devsecops-site/feed.xml is not an HTTPS link
+
+* At ./_site/jekyll/update/2023/11/03/welcome-to-jekyll.html:13:
+
+  http://localhost:4000/devsecops-site/jekyll/update/2023/11/03/welcome-to-jekyll.html is not an HTTPS link
+
+* At ./_site/jekyll/update/2023/11/03/welcome-to-jekyll.html:23:
+
+  http://localhost:4000/devsecops-site/feed.xml is not an HTTPS link
+
+* At ./_site/jekyll/update/2023/11/04/post-one.html:13:
+
+  http://localhost:4000/devsecops-site/jekyll/update/2023/11/04/post-one.html is not an HTTPS link
+
+* At ./_site/jekyll/update/2023/11/04/post-one.html:23:
+
+  http://localhost:4000/devsecops-site/feed.xml is not an HTTPS link
+
+* At ./_site/jekyll/update/2023/11/05/post-two.html:13:
+
+  http://localhost:4000/devsecops-site/jekyll/update/2023/11/05/post-two.html is not an HTTPS link
+
+* At ./_site/jekyll/update/2023/11/05/post-two.html:23:
+
+  http://localhost:4000/devsecops-site/feed.xml is not an HTTPS link
+
+* At ./_site/jekyll/update/2023/11/06/post-three.html:13:
+
+  http://localhost:4000/devsecops-site/jekyll/update/2023/11/06/post-three.html is not an HTTPS link
+
+* At ./_site/jekyll/update/2023/11/06/post-three.html:23:
+
+  http://localhost:4000/devsecops-site/feed.xml is not an HTTPS link
+
+* At ./_site/jekyll/update/2023/11/07/post-four.html:13:
+
+  http://localhost:4000/devsecops-site/jekyll/update/2023/11/07/post-four.html is not an HTTPS link
+
+* At ./_site/jekyll/update/2023/11/07/post-four.html:23:
+
+  http://localhost:4000/devsecops-site/feed.xml is not an HTTPS link
+
+* At ./_site/jekyll/update/2023/11/08/post-five.html:13:
+
+  http://localhost:4000/devsecops-site/jekyll/update/2023/11/08/post-five.html is not an HTTPS link
+
+* At ./_site/jekyll/update/2023/11/08/post-five.html:23:
+
+  http://localhost:4000/devsecops-site/feed.xml is not an HTTPS link
+
+For the Links > External check, the following failures were found:
+
+* At ./_site/404.html:13:
+
+  External link http://localhost:4000/devsecops-site/404.html failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/404.html:22:
+
+  External link http://localhost:4000/devsecops-site/feed.xml failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/about/index.html:13:
+
+  External link http://localhost:4000/devsecops-site/about/ failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/about/index.html:22:
+
+  External link http://localhost:4000/devsecops-site/feed.xml failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/index.html:13:
+
+  External link http://localhost:4000/devsecops-site/ failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/index.html:22:
+
+  External link http://localhost:4000/devsecops-site/feed.xml failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/jekyll/update/2023/11/03/welcome-to-jekyll.html:13:
+
+  External link http://localhost:4000/devsecops-site/jekyll/update/2023/11/03/welcome-to-jekyll.html failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/jekyll/update/2023/11/03/welcome-to-jekyll.html:23:
+
+  External link http://localhost:4000/devsecops-site/feed.xml failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/jekyll/update/2023/11/04/post-one.html:13:
+
+  External link http://localhost:4000/devsecops-site/jekyll/update/2023/11/04/post-one.html failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/jekyll/update/2023/11/04/post-one.html:23:
+
+  External link http://localhost:4000/devsecops-site/feed.xml failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/jekyll/update/2023/11/05/post-two.html:13:
+
+  External link http://localhost:4000/devsecops-site/jekyll/update/2023/11/05/post-two.html failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/jekyll/update/2023/11/05/post-two.html:23:
+
+  External link http://localhost:4000/devsecops-site/feed.xml failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/jekyll/update/2023/11/06/post-three.html:13:
+
+  External link http://localhost:4000/devsecops-site/jekyll/update/2023/11/06/post-three.html failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/jekyll/update/2023/11/06/post-three.html:23:
+
+  External link http://localhost:4000/devsecops-site/feed.xml failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/jekyll/update/2023/11/07/post-four.html:13:
+
+  External link http://localhost:4000/devsecops-site/jekyll/update/2023/11/07/post-four.html failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/jekyll/update/2023/11/07/post-four.html:23:
+
+  External link http://localhost:4000/devsecops-site/feed.xml failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/jekyll/update/2023/11/08/post-five.html:13:
+
+  External link http://localhost:4000/devsecops-site/jekyll/update/2023/11/08/post-five.html failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+* At ./_site/jekyll/update/2023/11/08/post-five.html:23:
+
+  External link http://localhost:4000/devsecops-site/feed.xml failed with something very wrong.
+It's possible libcurl couldn't connect to the server, or perhaps the request timed out.
+Sometimes, making too many requests at once also breaks things. (status code 0)
+
+For the Links > Internal check, the following failures were found:
+
+* At ./_site/404.html:22:
+
+  internally linking to /devsecops-site/assets/main.css, which does not exist
+
+* At ./_site/404.html:29:
+
+  internally linking to /devsecops-site/, which does not exist
+
+* At ./_site/404.html:39:
+
+  internally linking to /devsecops-site/about/, which does not exist
+
+* At ./_site/about/index.html:22:
+
+  internally linking to /devsecops-site/assets/main.css, which does not exist
+
+* At ./_site/about/index.html:29:
+
+  internally linking to /devsecops-site/, which does not exist
+
+* At ./_site/about/index.html:39:
+
+  internally linking to /devsecops-site/about/, which does not exist
+
+* At ./_site/index.html:22:
+
+  internally linking to /devsecops-site/assets/main.css, which does not exist
+
+* At ./_site/index.html:29:
+
+  internally linking to /devsecops-site/, which does not exist
+
+* At ./_site/index.html:39:
+
+  internally linking to /devsecops-site/about/, which does not exist
+
+* At ./_site/index.html:48:
+
+  internally linking to /devsecops-site/jekyll/update/2023/11/08/post-five.html, which does not exist
+
+* At ./_site/index.html:53:
+
+  internally linking to /devsecops-site/jekyll/update/2023/11/07/post-four.html, which does not exist
+
+* At ./_site/index.html:58:
+
+  internally linking to /devsecops-site/jekyll/update/2023/11/06/post-three.html, which does not exist
+
+* At ./_site/index.html:63:
+
+  internally linking to /devsecops-site/jekyll/update/2023/11/05/post-two.html, which does not exist
+
+* At ./_site/index.html:68:
+
+  internally linking to /devsecops-site/jekyll/update/2023/11/04/post-one.html, which does not exist
+
+* At ./_site/index.html:73:
+
+  internally linking to /devsecops-site/jekyll/update/2023/11/03/welcome-to-jekyll.html, which does not exist
+
+* At ./_site/index.html:78:
+
+  internally linking to /devsecops-site/feed.xml, which does not exist
+
+* At ./_site/jekyll/update/2023/11/03/welcome-to-jekyll.html:23:
+
+  internally linking to /devsecops-site/assets/main.css, which does not exist
+
+* At ./_site/jekyll/update/2023/11/03/welcome-to-jekyll.html:30:
+
+  internally linking to /devsecops-site/, which does not exist
+
+* At ./_site/jekyll/update/2023/11/03/welcome-to-jekyll.html:40:
+
+  internally linking to /devsecops-site/about/, which does not exist
+
+* At ./_site/jekyll/update/2023/11/03/welcome-to-jekyll.html:75:
+
+  internally linking to /devsecops-site/jekyll/update/2023/11/03/welcome-to-jekyll.html, which does not exist
+
+* At ./_site/jekyll/update/2023/11/04/post-one.html:23:
+
+  internally linking to /devsecops-site/assets/main.css, which does not exist
+
+* At ./_site/jekyll/update/2023/11/04/post-one.html:30:
+
+  internally linking to /devsecops-site/, which does not exist
+
+* At ./_site/jekyll/update/2023/11/04/post-one.html:40:
+
+  internally linking to /devsecops-site/about/, which does not exist
+
+* At ./_site/jekyll/update/2023/11/04/post-one.html:64:
+
+  internally linking to /devsecops-site/jekyll/update/2023/11/04/post-one.html, which does not exist
+
+* At ./_site/jekyll/update/2023/11/05/post-two.html:23:
+
+  internally linking to /devsecops-site/assets/main.css, which does not exist
+
+* At ./_site/jekyll/update/2023/11/05/post-two.html:30:
+
+  internally linking to /devsecops-site/, which does not exist
+
+* At ./_site/jekyll/update/2023/11/05/post-two.html:40:
+
+  internally linking to /devsecops-site/about/, which does not exist
+
+* At ./_site/jekyll/update/2023/11/05/post-two.html:57:
+
+  internally linking to /devsecops-site/jekyll/update/2023/11/05/post-two.html, which does not exist
+
+* At ./_site/jekyll/update/2023/11/06/post-three.html:23:
+
+  internally linking to /devsecops-site/assets/main.css, which does not exist
+
+* At ./_site/jekyll/update/2023/11/06/post-three.html:30:
+
+  internally linking to /devsecops-site/, which does not exist
+
+* At ./_site/jekyll/update/2023/11/06/post-three.html:40:
+
+  internally linking to /devsecops-site/about/, which does not exist
+
+* At ./_site/jekyll/update/2023/11/06/post-three.html:57:
+
+  internally linking to /devsecops-site/jekyll/update/2023/11/06/post-three.html, which does not exist
+
+* At ./_site/jekyll/update/2023/11/07/post-four.html:23:
+
+  internally linking to /devsecops-site/assets/main.css, which does not exist
+
+* At ./_site/jekyll/update/2023/11/07/post-four.html:30:
+
+  internally linking to /devsecops-site/, which does not exist
+
+* At ./_site/jekyll/update/2023/11/07/post-four.html:40:
+
+  internally linking to /devsecops-site/about/, which does not exist
+
+* At ./_site/jekyll/update/2023/11/07/post-four.html:57:
+
+  internally linking to /devsecops-site/jekyll/update/2023/11/07/post-four.html, which does not exist
+
+* At ./_site/jekyll/update/2023/11/08/post-five.html:23:
+
+  internally linking to /devsecops-site/assets/main.css, which does not exist
+
+* At ./_site/jekyll/update/2023/11/08/post-five.html:30:
+
+  internally linking to /devsecops-site/, which does not exist
+
+* At ./_site/jekyll/update/2023/11/08/post-five.html:40:
+
+  internally linking to /devsecops-site/about/, which does not exist
+
+* At ./_site/jekyll/update/2023/11/08/post-five.html:57:
+
+  internally linking to /devsecops-site/jekyll/update/2023/11/08/post-five.html, which does not exist
+
+
+HTML-Proofer found 85 failures!
